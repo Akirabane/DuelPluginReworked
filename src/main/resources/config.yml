@@ -1,0 +1,15 @@
+strings:
+  messages:
+    main:
+      eliminated: "&cYou have been eliminated!"
+      winner: "&aYou have won the game!"
+      whoWon: "&ahas won the game!"
+    damageListeners:
+      killedMessage: "&cYou killed:"
+    playerListener:
+      statePlayingKickMessage: "&cGame currently in progress, please wait until the game is over."
+      stateFinishedKickMessage: "&cGame has already finished, please wait until the next game."
+      joinMessage: "&ahas joined the game!"
+    autoStart:
+      timerMessage: "&aThe game will start in"
+      gameStart: "&aThe game has started!"

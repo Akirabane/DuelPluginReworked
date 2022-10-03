@@ -1,7 +1,5 @@
-name: fr.akirabane.duel
-version: '${project.version}'
-main: fr.akirabane.duel.fr.akirabane.duel.Fr.akirabane.duel
+name: DuelPlugin
+version: 1.0
+main: fr.akirabane.duelPlugin.Main
 api-version: 1.19
-authors: [ Akirabane ]
-description: Plugin de 1v1 duel sur minecraft.
-website: /
+author: Akirabane
